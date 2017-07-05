@@ -3,8 +3,8 @@
 
 ## Installation
 
-1. Open your terminal window.
-2. Check if you have installed `composer` and `PHP 5`:
+#####1. Open your terminal window.
+#####2. Check if you have installed `composer` and `PHP 5`:
 
     ``` 
     $ composer -V 
@@ -13,7 +13,7 @@
     ``` 
     $ Composer version 1.4.1 2017-03-10 09:29:45
     ```
-3. Check `PHP5` (PHP7):
+#####3. Check `PHP5` (PHP7):
     ``` 
     $ php -v 
     ```
@@ -26,7 +26,7 @@
         with Xdebug v2.5.5, Copyright (c) 2002-2017, by Derick Rethan
     ```
 
-4. Clone this repository:
+#####4. Clone this repository:
     ```
     $ git clone git@github.com:svystun/demo-classes.git my_folder
     
