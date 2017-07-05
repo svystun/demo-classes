@@ -3,7 +3,7 @@ This is demo project for students
 
 ## Installation
 
-1. Check if you have installed composer and PHP 5 (run command in console)
+1. Check if you have installed `composer` and `PHP 5` (run command in console)
 
     ``` 
     $ composer -V 
@@ -12,7 +12,7 @@ This is demo project for students
     ``` 
     $ Composer version 1.4.1 2017-03-10 09:29:45
     ```
-2. Check PHP5 (PHP7) (run command in console):
+2. Check `PHP5` (PHP7) (run command in console):
     ``` 
     $ php -v 
     ```
@@ -25,11 +25,13 @@ This is demo project for students
         with Xdebug v2.5.5, Copyright (c) 2002-2017, by Derick Rethan
     ```
 
-2. Clone this repository (run command in console):
+3. Clone this repository (run command in console):
     ```
        $ git clone git@github.com:svystun/demo-classes.git my_folder
        
        $ cd my_folder
+       
+       $ composer update
        
        $ php index.php
     ```
