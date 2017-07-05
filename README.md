@@ -28,12 +28,12 @@
 
 4. Clone this repository:
     ```
-       $ git clone git@github.com:svystun/demo-classes.git my_folder
-       
-       $ cd my_folder
-       
-       $ composer update
-       
-       $ php index.php
+    $ git clone git@github.com:svystun/demo-classes.git my_folder
+    
+    $ cd my_folder
+    
+    $ composer update
+    
+    $ php index.php
     ```
     As result you should see list of numbers without any errors.
