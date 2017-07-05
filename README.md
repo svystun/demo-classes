@@ -1,9 +1,10 @@
 # Demo-classes
-This is demo project for students
+> This is demo project for students
 
 ## Installation
 
-1. Check if you have installed `composer` and `PHP 5` (run command in console)
+1. Open your terminal window.
+2. Check if you have installed `composer` and `PHP 5`:
 
     ``` 
     $ composer -V 
@@ -12,7 +13,7 @@ This is demo project for students
     ``` 
     $ Composer version 1.4.1 2017-03-10 09:29:45
     ```
-2. Check `PHP5` (PHP7) (run command in console):
+3. Check `PHP5` (PHP7):
     ``` 
     $ php -v 
     ```
@@ -25,7 +26,7 @@ This is demo project for students
         with Xdebug v2.5.5, Copyright (c) 2002-2017, by Derick Rethan
     ```
 
-3. Clone this repository (run command in console):
+4. Clone this repository:
     ```
        $ git clone git@github.com:svystun/demo-classes.git my_folder
        
