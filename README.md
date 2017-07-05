@@ -4,6 +4,7 @@
 ## Installation
 
 **1.** Open your terminal window.
+
 **2.** Check if you have installed `composer` and `PHP 5`:
 
     ``` 
@@ -14,6 +15,7 @@
     $ Composer version 1.4.1 2017-03-10 09:29:45
     ```
 **3.** Check `PHP5` (PHP7):
+
     ``` 
     $ php -v 
     ```
@@ -27,6 +29,7 @@
     ```
 
 **4.** Clone this repository:
+
     ```
     $ git clone git@github.com:svystun/demo-classes.git my_folder
     
