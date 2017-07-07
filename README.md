@@ -14,7 +14,7 @@
     ``` 
     $ Composer version 1.4.1 2017-03-10 09:29:45
     ```
-3. Check `PHP5` (PHP7):
+3. Check PHP7 installation:
 
     ``` 
     $ php -v 
