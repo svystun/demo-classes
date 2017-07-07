@@ -5,7 +5,7 @@
 
 1. Open your terminal window.
 
-2. Check if you have installed `composer` and `PHP 5`:
+2. Check if you have installed `composer`:
 
     ``` 
     $ composer -V 
