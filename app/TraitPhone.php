@@ -20,10 +20,11 @@ trait TraitPhone {
      * Add money to phone number
      *
      * @param int $amount
+     * @return $this
      */
     public function setMoney(int $amount)
     {
-
         $this->money = $amount;
+        return $this;
     }
 }
