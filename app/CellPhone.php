@@ -26,7 +26,7 @@ class CellPhone extends AbstractPhone implements InterfacePhone {
      * Call to some number
      *
      * @param int $phoneNumber
-     * @return void
+     * @return $this
      */
     public function call(int $phoneNumber)
     {
@@ -34,7 +34,7 @@ class CellPhone extends AbstractPhone implements InterfacePhone {
             $this->dialNumbers($phoneNumber);
             echo 'CAll to ' . $phoneNumber . PHP_EOL;
         }
-
+        return $this;
     }
 
     /**
